@@ -21,17 +21,23 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 ## Setup/Installation Requirements
 
-* _Clone this repository to your local device_
-* _run 'npm install' and 'npm run build' from the terminal in the project directory_
-* _Run './dist/index.html' in your browser_
-* _Enjoy the lovely CSS_
+* Code editor required (such as Visual Studio Code and Github account.)
+* Navigate this address https://github.com/keidsiri/Portfolio into your browser or 
+<a href="https://github.com/keidsiri/Portfolio"> click here! </a>
+* Clone this repository to your desktop.
+* Navigate to the top of directory
+* Connect to your Github repository
+* Open files in VS code to view or edit
 
 ## Known Bugs
 
 * _None so far_
 
-## License - [MIT](https://opensource.org/licenses/MIT)
+## License 
 
-_If you run into any problems/bugs feel free to send me an email @mc.casperson@gmail.com with details._
+#### [MIT](https://opensource.org/licenses/MIT) Copyright (c) _2021_ _Kate Kiatsiri_
 
-Copyright (c) _2021_ _Name_
+## Contact
+
+_If you have any questions please feel free to [contact me](mailto:keidsiri@gmail.com)_
+
